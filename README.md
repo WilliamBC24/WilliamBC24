@@ -1,1 +1,1 @@
-<img width="97%" src="https://activity.themajorones.dev/graph?username=iamSlightlyWind&custom_title=Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545&include_all_commits=true&count_private=true&layout=compact" />
+<img width="97%" src="https://activity.themajorones.dev/graph?username=WilliamBC24&custom_title=Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545&include_all_commits=true&count_private=true&layout=compact" />
